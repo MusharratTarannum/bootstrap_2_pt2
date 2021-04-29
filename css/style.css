@@ -1,0 +1,25 @@
+.box{
+	min-height: 80px;
+	background-color: teal;
+	margin-bottom: 10px;
+}
+.box2{
+	min-height: 80px;
+	background-color: navy;
+	margin-bottom: 10px;
+}
+.mh0-400{
+	min-height: 300px;
+	background-color: pink;
+	margin-bottom: 10px;
+}
+.mh1-400{
+	min-height: 300px;
+	background-color: orange;
+	margin-bottom: 10px;
+}
+.mh-400{
+	min-height: 300px;
+	background-color: pink;
+	margin-bottom: 10px;
+}
